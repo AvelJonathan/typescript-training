@@ -1,4 +1,4 @@
-fdescribe('spread parameters', () => {
+describe('spread parameters', () => {
 
   it('should be able to call a function and spread the arguments', () => {
     const args = ['a', 'b', 'c']
